@@ -17,7 +17,7 @@ Revision Narrative(06/05/2019):
 3. Make email/phone number clickable using mailto and tel. 
 4. Make Project screenshot unclickable. 
 5. Remove "About me link" in nav bar.
-I am unable to read your bio on mobile due to lack of contrast with background: https://cl.ly/a6ec40357804 and it's difficult on desktop: https://cl.ly/43aba96ee5eb. You should not have background text behind text that I need to read.
+6. Delete background image to make bio readable.
 Spacing looks off on 320px screen (i.e. content is no longer centered). https://cl.ly/e17c6b1f6e27
 
 What are the Webshop sections with latin at the bottom of your page? You should either put real content here or remove them.
