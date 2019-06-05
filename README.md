@@ -19,6 +19,6 @@ Revision Narrative(06/05/2019):
 5. Remove "About me link" in nav bar.
 6. Delete background image to make bio readable.
 7. Put real content in the work section.
-Project section needs to include a description of the project and technologies used.
+8. Provide project description 
 HTML should be mobile first, which means that mobile CSS doesn't need a media query, but is in the main CSS and you use media queries to override it for larger screens.
 I'd like to see more of your passion for web development and desire to work on a team of great programers come through in your about me.
