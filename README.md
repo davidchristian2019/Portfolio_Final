@@ -21,3 +21,14 @@ Revision Narrative(06/05/2019):
 7. Put real content in the work section.
 8. Provide project description 
 9. Show more passions in the bio section
+
+Revision Narrative(06/06/2019):
+
+1. Open external links (social media, github, projects, etc) in a new tab.
+2. Update project description
+3. Make content centered on 320px screen.
+
+Revision Narrative(06/07/2019):
+
+1. Adjust menu button background color from white to gray.
+2. Update job description 
