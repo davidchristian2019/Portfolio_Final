@@ -33,7 +33,3 @@ Revision Narrative(06/07/2019):
 1. Adjust menu button background color from white to gray.
 2. Update job description 
 
-Revision Narrative(06/08/2019):
-
-1. Adjust menu button background color from white to gray.
-2. Update job description 
