@@ -33,3 +33,7 @@ Revision Narrative(06/07/2019):
 1. Adjust menu button background color from white to gray.
 2. Update job description 
 
+Revision Narrative(06/07/2019)
+
+1. Adjust margin and padding setting for email section
+2. Only phone number and email are clickable. I just make address section turn yellow when hover mouse on it.
