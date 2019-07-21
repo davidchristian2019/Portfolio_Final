@@ -157,7 +157,7 @@ h2.sm-heading,
 h3.sm-heading {
   margin-bottom: 2rem;
   padding: 0.2rem 1rem;
-  background: rgba(73, 73, 73, 0.5);
+  background:rgba(68, 68, 68, 0.9);
 }
 h1.lg-headinga {
   font-size: 6rem;
@@ -166,7 +166,7 @@ h1.lg-headinga {
 h2.sm-headinga {
   margin-bottom: 2rem;
   padding: 0.2rem 1rem;
-  background: rgba(73, 73, 73, 0.5);
+  background: rgba(68, 68, 68, 0.9);
   text-align: center;
 }
 
